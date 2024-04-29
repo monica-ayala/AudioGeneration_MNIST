@@ -59,9 +59,9 @@ def process_all_files(directory, output_directory):
                 spectrogram_file_name = f"{file_name}.npy"
                 np.save(os.path.join(output_directory, spectrogram_file_name), normalized_spectrogram)
 
-    np.save('min_max_values.npy', min_max_dict)
+    np.save('min_max_values_moni.npy', min_max_dict)
 
-output_directory = 'spectrograms'
+output_directory = 'spectrograms_moni'
 directory = 'C:\\Users\\mayal\\AudioGeneration_MNIST\\recordings'
 
 if not os.path.exists(output_directory):
