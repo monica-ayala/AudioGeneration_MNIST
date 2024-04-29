@@ -68,4 +68,6 @@ def combined_loss(y_target, y_predicted, mu, log_variance, reconstruction_loss_w
 Here we can find the implementation for a VAE based on a mixture of gaussian distributions. In this implementation of VAE we have to define a prior distribution, which we do with the help of tensorflow probability. This prior distribution is a mixture of gaussian distributions, parametrized by their means and a covariance matrix 
 
 
-*Note: To learn more about the dataset and the preprocessing step click [here](https://github.com/monica-ayala/AudioGeneration/blob/main/Preprocessing/README.md)*
+#### RESULTS SO FAR
+
+![image](https://github.com/monica-ayala/AudioGeneration_MNIST/assets/75228128/433c17c9-fe08-48e1-abbc-43e0df3ee729)
