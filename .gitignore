@@ -1,2 +1,6 @@
 .ipynb_checkpoints
-.keras
+best.keras
+best_best.keras
+best_model_small.keras
+best_model_MNIST.keras
+vae_model.keras
