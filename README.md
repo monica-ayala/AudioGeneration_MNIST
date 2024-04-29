@@ -37,7 +37,7 @@ In [Standard_VAE.py](https://github.com/monica-ayala/AudioGeneration_MNIST/blob/
 ![alt text](images/image-2.png)
 
 ##### Encoder
-![alt text](images/image.png)
+![alt text](images/image-0.png)
 
 ##### Decoder
 ![alt text](images/image-1.png)
