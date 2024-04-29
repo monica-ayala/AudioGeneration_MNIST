@@ -34,13 +34,13 @@ During my work on this project, I tried two types of variational autoencoders to
 In [Standard_VAE.py](https://github.com/monica-ayala/AudioGeneration_MNIST/blob/main/Standard_VAE.py) we have defined a standard variaitonal autoencoder. The architecture is the following:
 
 ##### VAE
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ##### Encoder
-![alt text](image.png)
+![alt text](images/image.png)
 
 ##### Decoder
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 At the end of the encoder we map the mean and the variance to 128 latent variables (dimensions) to then sample a point from this normal distribution that will be the actual output of our encoder to pass into our decoder.
 
 ```
