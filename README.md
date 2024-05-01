@@ -7,7 +7,7 @@
 
 ---
 
-### FULL DOCUMENTATION HERE:
+### FULL DOCUMENTATION FOUND HERE:
 https://github.com/monica-ayala/AudioGeneration_MNIST/blob/main/Autonomous_audio_generation_with_variational_autoencoders_using_the_FSDD_dataset.pdf
 
 #### About the proyect
