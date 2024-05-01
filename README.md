@@ -7,6 +7,9 @@
 
 ---
 
+### FULL DOCUMENTATION HERE:
+https://github.com/monica-ayala/AudioGeneration_MNIST/blob/main/Autonomous_audio_generation_with_variational_autoencoders_using_the_FSDD_dataset.pdf
+
 #### About the proyect
 
 This project employs a **Variational Autoencoder for autonomous audio generation and reconstruction** based .wav audio files transformed into Short Fourier Transform Spectrograms. The dataset employed is the [free-spoken-digit-dataset](https://github.com/Jakobovski/free-spoken-digit-dataset/tree/master/recordings), also known as an audio version of the MNIST digit dataset.
