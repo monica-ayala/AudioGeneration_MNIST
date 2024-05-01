@@ -103,7 +103,9 @@ It seems that the reconstruction loss made the Mixture Gaussian VAE stagnate, ev
 
 #### Results
 
-Here are some reconstructions of files in the training dataset.
+For audio samples click [here](https://drive.google.com/drive/u/0/folders/10mxXVwOR-JhO2oD3IRK-bmA5AQ7HESiu)
+
+Here are some reconstructions of files in the training dataset. 
 
 ![alt text](images/image-7.png)
 
@@ -131,3 +133,23 @@ And some plots of the latent space representation:
 ![alt text](images/image-12.png)
 
 ![alt text](images/image-13.png)
+
+#### References
+
+[Understanding Mel Spectograms](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
+
+[Generating Sound with Neural Networks](https://drive.google.com/drive/folders/1SIby6IPzSsLkenQCUV8todo2UaWzTu_f?usp=sharing)
+
+[VAE for the CelebA dataset](https://colab.research.google.com/github/goodboychan/goodboychan.github.io/blob/main/_notebooks/2021-09-14-03-Variational-AutoEncoder-Celeb-A.ipynb)
+
+Natsiou, Anastasia et al. “An Exploration of the Latent Space of a Convolutional Variational Autoencoder for the Generation of Musical Instrument Tones.” xAI (2023).
+
+Briot, JP., Pachet, F. Deep learning for music generation: challenges and directions. Neural Comput & Applic 32, 981–993 (2020). https://doi.org/10.1007/s00521-018-3813-6
+
+Dhariwal, P., Jun, H., Payne, C., Kim, J.W., Radford, A., & Sutskever, I. (2020). Jukebox: A Generative Model for Music. ArXiv, abs/2005.00341. https://openai.com/research/jukebox
+
+**Previous Work**
+
+LSTM Model for music generation using MIDI files: [Github Repository](https://github.com/monica-ayala/MusicGenerator) and [Presentation](https://www.canva.com/design/DAF54orkKw4/GHiqPZIscVxblPPqpttnww/view?utm_content=DAF54orkKw4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+GM-VAE Model for music generation using spectrograms: [Github Repository](https://github.com/monica-ayala/AudioGeneration/)
